@@ -321,6 +321,7 @@ Signed,
 - Steve Pavarno ([@pavarnos](https://github.com/pavarnos)), Full stack PHP since 2001, New Zealand
 - Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
 - Taichi Inaba (aka chatii) ([@chatii](https://github.com/chatii)) Fullstack Web Developer, Japan 🇯🇵
+- Taozywu ([@taozywu](https://github.com/taozywu)), Backend PHP Developer. 🇨🇳
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
 - Tasiu Kwaplong ([@tasiukwaplong](https://github.com/tasiukwaplong)), Laravel and PHP lover, Nigeria
 - Thomas Hauschild ([@Morgy93](https://github.com/Morgy93)), Developer, Germany
